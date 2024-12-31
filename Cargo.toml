@@ -1,5 +1,5 @@
 [package]
-name = "hello_world"
+name = "the_rust_official_book"
 version = "0.1.0"
 edition = "2021"
 
